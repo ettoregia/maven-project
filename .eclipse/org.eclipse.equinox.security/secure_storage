@@ -1,0 +1,11 @@
+#Equinox secure storage version 1.0
+#Fri Jan 26 10:19:06 GMT 2018
+/GIT/https\:\\2f\\2fgithub.com\:443/password=org.eclipse.equinox.security.osxkeystoreintegration\t5sUa0wgEfcg\=,A5d3WUx7T9kEM8PlpVQXhg\=\=
+/org.eclipse.equinox.secure.storage/recovery/org.eclipse.equinox.security.osxkeystoreintegration/org.eclipse.equinox.security.internal.recovery.question2=\t,TXVtJ3MgbWFpZGVuIG5hbWU\=
+/org.eclipse.equinox.secure.storage/recovery/org.eclipse.equinox.security.osxkeystoreintegration/org.eclipse.equinox.security.internal.recovery.question1=\t,Zmlyc3QgcGV0IG5hbWU\=
+/org.eclipse.equinox.secure.storage/recovery/org.eclipse.equinox.security.osxkeystoreintegration/org.eclipse.equinox.security.internal.recovery.password=org.eclipse.equinox.security.recoveryModule\tvmBZ6d9wTvA\=,8cwEvdfw7vxh7e3o3s41OfO6q00WxYnReCk1+6duyG+LoPsY2ew1ubk0Ie4vqqZR1jI2bnsSJA6ZuYe6oA7tH6jghxGtgKY6EoDfrdt0Vi3ztT77rNO4BMAx9H6fmcnL
+org.eclipse.equinox.security.preferences.version=1
+/org.eclipse.equinox.secure.storage/verification/org.eclipse.equinox.security.osxkeystoreintegration=org.eclipse.equinox.security.osxkeystoreintegration\twQtqk6pBeFo\=,MGUq7pLQhfeBWTdRxmBhmDoja8Zq/bCz
+org.eclipse.equinox.security.preferences.keyFactory=PBEWithMD5AndDES
+/GIT/https\:\\2f\\2fgithub.com\:443/user=\t,ZXR0b3JlZ2lhQGdtYWlsLmNvbQ\=\=
+org.eclipse.equinox.security.preferences.cipher=PBEWithMD5AndDES
